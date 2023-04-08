@@ -2,13 +2,13 @@
 
 # Resources
 
-[Trauma Center AutoSplitters](https://leokeidran.github.io/tc-autosplitters)
+[Trauma Center AutoSplitters](https://leokeidran.github.io/tc-autosplitters){:target="_blank" rel="noopener"}
 
-[Trauma Center: Second Opinion Speedrun Guide](https://leokeidran.github.io/tcso/)
+[Trauma Center: Second Opinion Speedrun Guide](https://leokeidran.github.io/tcso/){:target="_blank" rel="noopener"}
 
 # Socials
 
-[Twitter](https://twitter.com/leokeidran)
-[Twitch](https://twitch.tv/leokeidran)
-[YouTube](https://youtube.com/leokeidran)
-[Speedrun Profile](https://speedrun.com/user/leokeidran)
+[![Twitter](./img/twitter-rounded.png)](https://twitter.com/leokeidran){:target="_blank" rel="noopener"}
+[![Twitch](./img/twitch-rounded.png)](https://twitch.tv/leokeidran){:target="_blank" rel="noopener"}
+[![YouTube](./img/youtube-rounded.png)](https://youtube.com/leokeidran){:target="_blank" rel="noopener"}
+[![Speedrun Profile](./img/src-rounded.png)](https://speedrun.com/user/leokeidran){:target="_blank" rel="noopener"}
