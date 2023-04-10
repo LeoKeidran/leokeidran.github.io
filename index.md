@@ -8,7 +8,7 @@
 
 # Socials
 
-[![Twitter](./img/twitter-rounded.png){:height="225px" width="225px"}](https://twitter.com/leokeidran){:target="_blank" rel="noopener"; style="text-align: centre,"}
-[![Twitch](./img/twitch-rounded.png){:height="225px" width="225px"}](https://twitch.tv/leokeidran){:target="_blank" rel="noopener"; style="text-align: centre,"}
-[![YouTube](./img/youtube-rounded.png){:height="225px" width="225px"}](https://youtube.com/leokeidran){:target="_blank" rel="noopener"; style="text-align: centre,"}
-[![Speedrun Profile](./img/src-rounded.png){:height="225px" width="225px"}](https://speedrun.com/user/leokeidran){:target="_blank" rel="noopener"; style="text-align: centre,"}
+[![Twitter](./img/twitter-rounded.png){:height="225px" width="225px"}](https://twitter.com/leokeidran){:target="_blank" rel="noopener"; style="text-align: center"}
+[![Twitch](./img/twitch-rounded.png){:height="225px" width="225px"}](https://twitch.tv/leokeidran){:target="_blank" rel="noopener"; style="text-align: center"}
+[![YouTube](./img/youtube-rounded.png){:height="225px" width="225px"}](https://youtube.com/leokeidran){:target="_blank" rel="noopener"; style="text-align: center"}
+[![Speedrun Profile](./img/src-rounded.png){:height="225px" width="225px"}](https://speedrun.com/user/leokeidran){:target="_blank" rel="noopener"; style="text-align: center"}
