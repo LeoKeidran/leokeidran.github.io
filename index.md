@@ -8,6 +8,8 @@
 
 # Socials
 
+<div id="imgs"> </div>
+
 [![Twitter](./img/twitter-rounded.png){:height="225px" width="225px"}](https://twitter.com/leokeidran){:target="_blank" rel="noopener"}
 [![Twitch](./img/twitch-rounded.png){:height="225px" width="225px"}](https://twitch.tv/leokeidran){:target="_blank" rel="noopener"}
 [![YouTube](./img/youtube-rounded.png){:height="225px" width="225px"}](https://youtube.com/leokeidran){:target="_blank" rel="noopener"}
