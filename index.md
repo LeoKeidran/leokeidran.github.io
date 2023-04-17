@@ -8,7 +8,13 @@
 
 # Socials
 
-[![Twitter](./img/twitter-rounded.png){:height="225px" width="225px"}](https://twitter.com/leokeidran){:target="_blank" rel="noopener"; .imgs}
-[![Twitch](./img/twitch-rounded.png){:height="225px" width="225px"}](https://twitch.tv/leokeidran){:target="_blank" rel="noopener"; .imgs}
-[![YouTube](./img/youtube-rounded.png){:height="225px" width="225px"}](https://youtube.com/leokeidran){:target="_blank" rel="noopener"; .imgs}
-[![Speedrun Profile](./img/src-rounded.png){:height="225px" width="225px"}](https://speedrun.com/user/leokeidran){:target="_blank" rel="noopener"; .imgs}
+{::options parse_block_html="true" /}
+
+<div class="imgs">
+<a href="https://twitter.com/leokeidran" target="_blank"><img src="./img/twitter-rounded.png" height="225" width="225"></a>
+<a href="https://twitch.tv/leokeidran" target="_blank"><img src="./img/twitch-rounded.png" height="225" width="225"></a>
+<a href="https://youtube.com/leokeidran" target="_blank"><img src="./img/youtube-rounded.png" height="225" width="225"></a>
+<a href="https://speedrun.com/user/leokeidran" target="_blank"><img src="./img/src-rounded.png" height="225" width="225"></a>
+</div>
+
+{::options parse_block_html="false" /}
